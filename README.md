@@ -28,6 +28,14 @@ I enjoy solving engineering problems using numerical methods and data-driven app
 - Filtered and analyzed bikeshare datasets
 - Generated statistical insights on user behavior
 
+### 🔹 Graduation Project – Finite Element Analysis (Abaqus)
+- Studied volumetric locking in nearly incompressible hyperelastic materials  
+- Used Abaqus with Cook’s membrane benchmark model  
+- Compared different finite element types (standard, reduced integration, hybrid)  
+- Performed mesh refinement and convergence analysis  
+- Investigated Neo-Hookean material behavior under different Poisson’s ratios  
+- Demonstrated that hybrid elements reduce volumetric locking and improve accuracy  
+
 ---
 
 ## 🎯 Interests
