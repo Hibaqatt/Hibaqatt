@@ -36,6 +36,13 @@ I enjoy solving engineering problems using numerical methods and data-driven app
 - Investigated Neo-Hookean material behavior under different Poisson’s ratios  
 - Demonstrated that hybrid elements reduce volumetric locking and improve accuracy  
 
+### 🔹 FEM Visualizer – AI-Powered Web App** 🏅 Gold Medal — Kanz AI Hackathon
+- Built an interactive 2D web platform for teaching FEM structural simulations
+- Features real-time mesh deformation, stress heatmaps, and displacement calculations
+- Integrated AI engine to explain structural analysis results in natural language
+- Includes bilingual knowledge quiz (10 questions)
+- 🌐 [Live App](https://fem-visualizer--sajedasago2001.replit.app/) | 🏆 [Kanz Portfolio](https://try.ka.nz/ai/hibaqattoush)
+  
 ---
 
 ## 🎯 Interests
